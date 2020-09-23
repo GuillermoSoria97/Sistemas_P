@@ -6,5 +6,5 @@ Menu
 
 * [C1.1](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C1.1%20GuillermoSoriaMarquez_Zerox.md)
 
-* [C1.2]()
+* [C1.2](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C1.2%20GuillermoSoriaMarquez_Zerox.md)
 
