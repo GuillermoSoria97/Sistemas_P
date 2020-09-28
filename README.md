@@ -1,4 +1,20 @@
 # Sistemas_P
+![Logotec](img/ITT.jpg)
+![LogoIsc](img/ISC.png)
+
+#  Información #
+
+**Nombre Del alumno:** Soria Márquez Guillermo.
+
+**Numero de control:** 17210648.
+
+**Carrera:** Sistemas computacionales.
+
+**Nombre Del equipo:** Zerox.
+
+**Nombre del maestro:** Jaime Leonardo Enriquez Alvarez.
+
+**Materia:** Sistemas Programables.
 
 # :earth_americas: Menu #
 
