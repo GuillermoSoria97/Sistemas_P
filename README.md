@@ -18,6 +18,8 @@
 
 # :earth_americas: Menu #
 
+**Blog**
+
 * [C0.2 Cuestionario I4.0](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C0.2%20GuillermoSoriaMarquez_Zerox.md)
 
 * [C1.1 Cuestionario electrónica básica y sus elementos](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C1.1%20GuillermoSoriaMarquez_Zerox.md)
@@ -26,5 +28,6 @@
   
 * [C1.3 Circuito electronico para uso con sensores y transductores](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C1.3%20GuillermoSoriaMarquez_Zerox.md)
 
+**Docs**
 * [A.1.2 Sensor Fotoresistivo](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/A.1.2GuillermoSoriaMarquez_Zerox.md)
 
