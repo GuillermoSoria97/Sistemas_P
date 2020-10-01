@@ -104,13 +104,16 @@ medido  y registre en la tabla correspondiente.
 1.  Incluya las conclusiones individuales y resultados observados durante el desarrollo de la actividad.
    
 **Díaz Navarro Alejandro**
+
 En cierto punto me fue un poco difícil saber como es el armado del circuito ya que no me encuentro muy familiarizado con el ensamblado de estos, uno de los puntos donde se batallo un poco fue en saber que tipo de fuente alimentaria al circuito, se utilizó una pila de 9V que fue reducida con a 5V a través de resistencias, al final se optó por mejor hacer uso de una fuente de alimentación donde se puede establecer de manera manual el voltaje que queremos que alimentara.
 Con el desarrollo de esta práctica comprendí el uso que tiene la fotorresistencia, y como esta es afectada dependiendo de la cantidad de luz que influye sobre esta misma, de igual manera en un punto se utilizó un led para ver de manera visual qué es lo que pasaba realmente al momento que la luz le afectaba como a menor luz este prendida y al ir aumentando el nivel de exposición este iba disminuyendo hasta el punto de apagarse. Por otro lado también nos permitió conocer el uso de un simulador de circuitos en este caso el que se encuentra disponible en la página Tinkercad.
 
 **Rodríguez Báez Vanessa Marlenne**
+
 En la actualidad cada dia hay mas apartatos que incluyen las Fotoresistencias, Gracias a eso pueden crear aparatos que no se necesiten que una persona lo enciendan, lo hacen idependiente, en esta practiva aprendimos mas del funcionamiento de esta teniando unos problemas al momento de sacar los calculos de la impedancia y del voltaje con el multimetro, en la practica nos decia qu eteniamos que alimentar el circuito con 5 volts lo cual pensamos que un arreglo de resistencias seria la solucion pero no cuadraban las cuentas por lo que mejor utilizamos una fuente de energia y le pusimos los 5 volts y así nos comenzo a salir llas cuentas, Gracias a esta practica aprendi el como medir bien la fotoresistencia y el como graficarla
 
 **Soria Márquez Guillermo**
+
 El objetivo principal de esta practica fue analizar y comprender cual es el funcionamiento de la fotoresistencia con la representacion del circuito en el documento de la practica. Al principio tuvimos problemas con la fuente de alimentacion ya que no habia una manera directa de poner los 5V solicitados pero lo solucionamos con resistencias ,se nos presentaron problemas ya que no estabamos familiarizados con el simulador, realizamos varios circuitos y al final  obtamos por porner una fuente de poder. Al momento de realizar los calculos nos salian valores muy distintos y despues de analizar por bastante tiempo el circuito nos dimos cuenta de que estaba mal conectado, asi que por eso no nos salian los calculos corregimos el error y ya eran datos exactos.Esta practica me ayudo mucho porque yo no conocia este componente y sobre todo a familiarizarme mas con los circuitos ya que no tengo mucho conocimiento en ellos.
 
 
