@@ -26,3 +26,5 @@
   
 * [C1.3 Circuito electronico para uso con sensores y transductores](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C1.3%20GuillermoSoriaMarquez_Zerox.md)
 
+* [A.1.2 Sensor Fotoresistivo](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C1.3%20GuillermoSoriaMarquez_Zerox.md)
+

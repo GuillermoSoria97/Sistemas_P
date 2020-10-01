@@ -85,7 +85,7 @@ medido  y registre en la tabla correspondiente.
 
 8. **Grafique** a través de los valores registrados en la tabla anterior de tal manera que se pueda observar el comportamiento de la curva del componente LDR e **inserte la grafica**.
 
-![Grafica](../img/Grafica.JPG)
+![Grafica](../img/Grafica.jpg)
 
 9.  Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad.
     
