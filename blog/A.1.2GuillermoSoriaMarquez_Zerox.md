@@ -123,4 +123,4 @@ El objetivo principal de esta practica fue analizar y comprender cual es el func
 | Demostración  | El alumno se presenta durante la explicación de la funcionalidad de la actividad?            | 20      |
 | Conclusiones  | Se incluye una opinión personal de la actividad  por cada uno de los integrantes del equipo? | 10      |
 
-:house: [Ir a sensores](../docs/D1.0_Sensores.md)
+:house: [Enlace a GitHub](https://github.com/GuillermoSoria97/Sistemas_P)
