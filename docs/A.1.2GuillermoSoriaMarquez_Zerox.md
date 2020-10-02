@@ -79,13 +79,13 @@ medido  y registre en la tabla correspondiente.
 
     | Condicion          |  Impedancia en fotoresistencia | Voltaje Vout teórico | Voltaje Vout medido | %  V.Medido/ V.Teórico |
     | --------------- | ----------------------------- | -------------------- | ------------------- | ---------------------- |
-    | Ausencia de luz | 180k  Ohms |0.027v| 27.7mV |1|
-    | Luz ambiental   | 912 Ohms |2.61v|2.61 V|1|
-    | Luz intensa     | 506 Ohms |3.32v |3.32 V|1|
+    | Ausencia de luz | 180k  Ohms |0.027v| 27.7mV |100%|
+    | Luz ambiental   | 912 Ohms |2.61v|2.61 V|100%|
+    | Luz intensa     | 506 Ohms |3.32v |3.32 V|100%|
 
 8. **Grafique** a través de los valores registrados en la tabla anterior de tal manera que se pueda observar el comportamiento de la curva del componente LDR e **inserte la grafica**.
 
-![Grafica](../img/Grafica.jpg)
+![Grafica](../img/Grafica.png)
 
 9.  Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad.
     
