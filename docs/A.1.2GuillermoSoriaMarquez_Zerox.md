@@ -77,11 +77,42 @@ ambiente, luz intensiva y registre en la tabla correspondiente.
 medido  y registre en la tabla correspondiente.
 7. Calcule el **valor de exactitud** de voltaje entre lo teórico y lo medido para cada condición  y registre en la tabla correspondiente.
 
-    | Condicion          |  Impedancia en fotoresistencia | Voltaje Vout teórico | Voltaje Vout medido | %  V.Medido/ V.Teórico |
+      | Condicion          |  Impedancia en fotoresistencia | Voltaje Vout teórico | Voltaje Vout medido | %  V.Medido/ V.Teórico |
     | --------------- | ----------------------------- | -------------------- | ------------------- | ---------------------- |
-    | Ausencia de luz | 180k  Ohms |0.027v| 27.7mV |100%|
-    | Luz ambiental   | 912 Ohms |2.61v|2.61 V|100%|
+    | Ausencia de luz | 180k  Ohms |0.0276v| 27.7mV |99.63%|
+    | Luz ambiental   | 912 Ohms |2.66v|2.61 V|98.12%|
     | Luz intensa     | 506 Ohms |3.32v |3.32 V|100%|
+
+    **Calculos**
+
+Ausencia de luz 
+
+R1=180,000 ohms
+R2= 1000 ohms
+Vcc=5V
+
+formula= (1000*5)/(180,000+1000)
+    
+(5000)/(181000) = **0.0276V** 
+
+Luz ambiental
+
+R1= 912 ohms
+R2= 1000 ohms
+Vcc=5V
+formula= (1000*5)/(912+1000)
+    
+(5000)/(1912) = **2.61V** 
+
+Luz intensa
+
+R1= 506 ohms
+R2= 1000 ohms
+Vcc=5V
+formula= (1000*5)/(506+1000)
+    
+(5000)/(1506) = **3.32V** 
+
 
 8. **Grafique** a través de los valores registrados en la tabla anterior de tal manera que se pueda observar el comportamiento de la curva del componente LDR e **inserte la grafica**.
 
@@ -126,4 +157,10 @@ El objetivo principal de esta practica fue analizar y comprender cual es el func
 | Demostración  | El alumno se presenta durante la explicación de la funcionalidad de la actividad?            | 20      |
 | Conclusiones  | Se incluye una opinión personal de la actividad  por cada uno de los integrantes del equipo? | 10      |
 
-:house: [Enlace a GitHub](https://github.com/GuillermoSoria97/Sistemas_P)
+:house: [Link  Díaz Navarro Alejandro](https://github.com/AlejandroDiaz96/SistemasProgramables2020)
+
+:house: [Link Rodríguez Báez Vanessa Marlenne](https://github.com/vanessamRodriguez/Sistemas_Programables)
+
+
+:house: [Link Soria Márquez Guillermo](https://github.com/GuillermoSoria97/Sistemas_P)
+
