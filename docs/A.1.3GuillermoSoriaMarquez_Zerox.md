@@ -61,11 +61,17 @@ ___
      - Se puede apoyarse de un video que no debe durar mas de 1/3 del tiempo de su presentación..
     - **Conclusiones** por cada uno de los integrantes del equipo.
     - **Bibliográfia**, el cual debe estar al estilo camuflaje, es decir dentro del cuerpo del desarrollo como etiqueta a enlaces cada vez que mencione el concepto.
+
+[Sensor de Control Remoto Infrarrojo AX-1838HS](http://dalincom.ru/datasheet/AX-1838HS.pdf?fbclid=IwAR2N8R31CxP3IuGqRcREncHbF-bN5JUWkT2wM2hge4FUv2udBVTeaa2XSos)
+
+[Comportamiento](https://www.luisllamas.es/?fbclid=IwAR14Bha9siJVsEri6XEjYNgtHV7pI3AN6dUsT2XytTm6Xc5uyPPo7OhlZlI)
+
+[Video del minuto 2:55 al 3:10](https://www.youtube.com/watch?v=vrscN4EvIgc&feature=emb_logo)
   
   **Nota** Las bibliografias se encuentran camuflajeadas dentro de cada titulo de la presentación
   
   - [Presentacion PDF](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/PDF/Sensor%20de%20Control%20Remoto%20Infrarrojo%20AX-1838HS.pdf)
-4. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad
+1. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad
   
 ![Evidencia1](../img/Evidencia%201.png)
 ![Evidencia2](../img/Evidencia%202.png)
