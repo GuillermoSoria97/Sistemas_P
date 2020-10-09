@@ -61,9 +61,17 @@ ___
      - Se puede apoyarse de un video que no debe durar mas de 1/3 del tiempo de su presentación..
     - **Conclusiones** por cada uno de los integrantes del equipo.
     - **Bibliográfia**, el cual debe estar al estilo camuflaje, es decir dentro del cuerpo del desarrollo como etiqueta a enlaces cada vez que mencione el concepto.
+  
+  **Nota** Las bibliografias se encuentran camuflajeadas dentro de cada titulo de la presentación
+  
   - [Presentacion PDF](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/PDF/Sensor%20de%20Control%20Remoto%20Infrarrojo%20AX-1838HS.pdf)
 4. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad
-
+  
+![Evidencia1](../img/Evidencia%201.png)
+![Evidencia2](../img/Evidencia%202.png)
+![Evidencia3](../img/Evidencia%203.png)
+![Evidencia4](../img/Evidencia%204.png)
+![Evidencia5](../img/Evidencia%205.png)
 ___
 
 ### :bomb: Rubrica
@@ -75,4 +83,8 @@ ___
 | Demostración  | El alumno se presenta durante la explicación de la funcionalidad de la actividad?            | 20      |
 | Conclusiones  | Se incluye una opinión personal de la actividad  por cada uno de los integrantes del equipo? | 10      |
 
-:house: [Enlace a mi GitHub](https://github.com/GuillermoSoria97/Sistemas_P)
+:house: [Link  Díaz Navarro Alejandro](https://github.com/AlejandroDiaz96/SistemasProgramables2020)
+
+:house: [Link Rodríguez Báez Vanessa Marlenne](https://github.com/vanessamRodriguez/Sistemas_Programables)
+
+:house: [Link Soria Márquez Guillermo](https://github.com/GuillermoSoria97/Sistemas_P)
