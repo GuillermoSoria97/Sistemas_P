@@ -61,7 +61,8 @@ ___
      - Se puede apoyarse de un video que no debe durar mas de 1/3 del tiempo de su presentación..
     - **Conclusiones** por cada uno de los integrantes del equipo.
     - **Bibliográfia**, el cual debe estar al estilo camuflaje, es decir dentro del cuerpo del desarrollo como etiqueta a enlaces cada vez que mencione el concepto.
-5. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad
+  - [Presentacion PDF](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/PDF/Sensor%20de%20Control%20Remoto%20Infrarrojo%20AX-1838HS.pdf)
+4. Inserte imágenes de **evidencias** tales como son reuniones  de los integrantes del equipo realizadas para el desarrollo de la actividad
 
 ___
 
