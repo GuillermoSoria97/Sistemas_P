@@ -28,7 +28,7 @@
   
 * [C1.3 Circuito electronico para uso con sensores y transductores](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C1.3%20GuillermoSoriaMarquez_Zerox.md)
   
-* [C1.5 ](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C1.4%20GuillermoSoriaMarquez_Zerox.md)
+* [C1.5 Tipo de sensores de acuerdo con su uso aplicativo.](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C1.5%20GuillermoSoriaMarquez_Zerox.md)
 
 
 **Docs**
