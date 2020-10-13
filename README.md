@@ -36,3 +36,5 @@
 
 * [A.1.3 Tipos de Sensores Comerciales](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A.1.3GuillermoSoriaMarquez_Zerox.md)
 
+* [A.1.4 Sensor de Temperatura](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A.1.4GuillermoSoriaMarquez_Zerox.md)
+
