@@ -69,9 +69,9 @@ posición indicada.
 
 | Numero | Condición | Voltaje Vout1 medido | Voltaje en R1 medido | Temperatura indicada |
 | ------ | --------- | -------------------- | -------------------- | -------------------- |
-| 1      | Mínima    |                      |                      |                      |
-| 2      | Media     |                      |                      |                      |
-| 3      | Máxima    |                      |                      |                      |
+| 1      | Mínima    |    99.9mV                  |     11mV                 |    -40°C                |
+| 2      | Media     |       939mV               |         11mV              |    44°C                 |
+| 3      | Máxima    |    1.75V                  |       11mV                |       125°C                     |
 
 4. Utilizando la imagen del transistor TMP36 que corresponde a la etapa 1, conecte la terminal Vout1 a la terminal no 
 inversora del LM741, y ensamble el circuito correspondiente a la etapa 2.
