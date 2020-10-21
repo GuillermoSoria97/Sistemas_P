@@ -36,6 +36,8 @@ Unidad 1
 Unidad 2
 * [C2.1 Cuestionario Actuadores y su clasificacion](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C2.1GuillermoSoriaMarquez_Zerox.md)
 
+* [C2.2 Cuestionario Actuadores Electricos](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C2.2GuillermoSoriaMarquez_Zerox.md)
+
 
 
 
