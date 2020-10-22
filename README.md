@@ -38,6 +38,8 @@ Unidad 2
 
 * [C2.2 Cuestionario Actuadores Electricos](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C2.2GuillermoSoriaMarquez_Zerox.md)
 
+* [C2.3 Circuito temporizador 555](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C2.3GuillermoSoriaMarquez_Zerox.md)
+
 
 
 
