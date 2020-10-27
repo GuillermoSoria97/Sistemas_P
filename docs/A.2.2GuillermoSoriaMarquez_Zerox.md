@@ -32,15 +32,15 @@
 | Cantidad | Descripción                            |
 | -------- | -------------------------------------- |
 | 1        | [Circuito integrado LM555](https://sites.google.com/site/tallerroboticanova/integrado-555)               |
-| 1        | Capacitor electrolítico de 47uf        |
-| 1        | Condensador cerámico de 10nf           |
-| 1        | Fuente de voltaje de 9V                |
-| 1        | Transistor de poder TIP122             |
-| 1        | Diodo 1N4001 o equivalente             |
-| 1        | Mini Motor DC                          |
-| 3        | Resistencias 680,1k,10k Ohmios de 1/4w |
-| 1        | Pulsador de disparo                    |
-| 1        | Diodo Led Rojo                         |
+| 1        | [Capacitor electrolítico de 47uf](https://tostatronic.com/store/es/componentes-pasivos/854-capacitor-electrolitico-47uf-50v.html)        |
+| 1        | [Condensador cerámico de 10nf](http://www.geekbotelectronics.com/producto/capacitor-ceramico-10-nf-50-v/)           |
+| 1        | [Fuente de voltaje de 9V](https://sandorobotics.com/producto/hr0177-12/)               |
+| 1        | [Transistor de poder TIP122](https://sandorobotics.com/producto/tip122/)             |
+| 1        | [Diodo 1N4001 o equivalente](https://hetpro-store.com/diodo-rectificador-1n4001/)             |
+| 1        | [Mini Motor DC](https://www.steren.com.mx/mini-motor-de-corriente-directa.html)                          |
+| 3        | Resistencias [680](http://www.geekbotelectronics.com/producto/resistencia-680-ohm-14-w/),[1k](https://www.electrocomponentes.es/resistencias/resistencia-1k-ohm-025w-39-.html),[10k Ohmios de 1/4w](https://www.electrocomponentes.es/resistencias/resistencia-10k-ohm-025w-49-.html#:~:text=Peque%C3%B1a%20resistencia%20de%20pel%C3%ADcula%20de,de%20trabajo%20de%20hasta%20300v.)|
+| 1        | [Pulsador de disparo](https://www.diarioelectronicohoy.com/blog/pulsadores-sin-rebotes)                    |
+| 1        | [Diodo Led Rojo](http://www.geekbotelectronics.com/producto/led-difuso-rojo-5-mm/)                         |
 
 1. Utilice el circuito electrónico de la imagen siguiente y ensamble la etapa 1 dentro del simulador.
 
