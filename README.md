@@ -53,4 +53,4 @@ Unidad 1
 * [A.1.4 Sensor de Temperatura](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A.1.4GuillermoSoriaMarquez_Zerox.md)
 
 Unidad 2
-* [A.2.1 Investigación sobre actuadores eléctricos](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A2.1GuillermoSoriaMarquez_Zerox.md)
+* [A.2.1 Investigación sobre actuadores eléctricos](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A.2.1GuillermoSoriaMarquez_Zerox.md)
