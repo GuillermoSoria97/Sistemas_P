@@ -54,3 +54,5 @@ Unidad 1
 
 Unidad 2
 * [A.2.1 Investigación sobre actuadores eléctricos](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A.2.1GuillermoSoriaMarquez_Zerox.md)
+  
+* [A.2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A.2.2GuillermoSoriaMarquez_Zerox.md)
