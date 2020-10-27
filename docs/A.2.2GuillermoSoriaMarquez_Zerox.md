@@ -73,4 +73,8 @@
 | Conclusiones  | Se incluye una opinión personal de la actividad  por cada uno de los integrantes del equipo? | 10      |
 
 
-:house: [Ir a actuadores](../docs/D2.0_Actuadores.md)
+:house: [Link  Díaz Navarro Alejandro](https://github.com/AlejandroDiaz96/SistemasProgramables2020)
+
+:house: [Link Rodríguez Báez Vanessa Marlenne](https://github.com/vanessamRodriguez/Sistemas_Programables)
+
+:house: [Link Soria Márquez Guillermo](https://github.com/GuillermoSoria97/Sistemas_P)
