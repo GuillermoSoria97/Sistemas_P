@@ -31,7 +31,7 @@
 
 | Cantidad | Descripción                            |
 | -------- | -------------------------------------- |
-| 1        | Circuito integrado LM555               |
+| 1        | [Circuito integrado LM555](https://sites.google.com/site/tallerroboticanova/integrado-555)               |
 | 1        | Capacitor electrolítico de 47uf        |
 | 1        | Condensador cerámico de 10nf           |
 | 1        | Fuente de voltaje de 9V                |
