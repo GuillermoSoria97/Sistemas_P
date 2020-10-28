@@ -48,7 +48,7 @@
     <img alt="Logo" src="../img/C2.x_CircuitoNe555MotorDC.png" width=850 height=350>
 </p>
 
-![etapa1](../img/Etapa1.png)
+![Etapa1](../img/c1a22.png)
 
 3. Como se podrá observar en el circuito anterior existe un area identificada como "Red de tiempo" y otra "Filtro de desacople", **explique el proposito de ambos terminologias**.
    
@@ -97,7 +97,7 @@ Ct= 1.1 * 33,000 * 0.000221= **8.02 seg**
 - Para iniciar el encendido del led se debe presionar el botón lo cual conlleva que pasado el tiempo el cual le asgnemos con los valores de R1 y C1 este se apaga.
   
 6. Ensamble la etapa 2 e integre la terminal del pulso de salida a la entrada de la base del transistor de esta segunda etapa.
-   ![Etapa2](../img/Etapa1%20y%20Etapa2.png)
+   ![Etapa2](../img/c2a22.png)
 7. Una vez concluido el paso anterior, elija una de las 3 condiciones registradas en la tabla anterior y observe el comportamiento del motor DC; **explique su observación**.
 
 - Al presionar el botón el led enciende con ello el motor empieza a trabajar durante el tiempo que led esté encendido una vez este se apague el motor dejara de seguir su marcha.
@@ -111,10 +111,10 @@ Ct= 1.1 * 33,000 * 0.000221= **8.02 seg**
 
 - **Soria Márquez Guillermo:**
 10.  Evidencia 
-![Evidencia1](../img/Evi1.png)
-![Evidencia2](../img/Evi2.png)
-![Evidencia3](../img/Evi3.png)
-![Evidencia4](../img/Evi4.png)
+![Evidencia1](../img/e1a22.png)
+![Evidencia2](../img/e2a22.png)
+![Evidencia3](../img/e3a22.png)
+![Evidencia4](../img/e4a22.png)
 
 ### :bomb: Rubrica
 
