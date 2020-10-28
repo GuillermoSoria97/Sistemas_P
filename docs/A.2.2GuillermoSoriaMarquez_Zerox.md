@@ -111,7 +111,7 @@ Ct= 1.1 * 33,000 * 0.000221= **8.02 seg**
 
 - **Rodríguez Báez Vanessa Marlenne:** En esta practica  se trabajo con un temporizador 555 el cual controla el tiempo de encendido de uno o varios componentes, esta  practica la verdad si me ayudo muchisimo al momento de  volver a recordar el como era trabajar con este  temporizador, al igual con el transistor lo cual es muy  facil su uso ya que cada patita tiene su proposito y su  conexion se me hizo muy facil en la que batalle fue en la conexion del 555.
 
-- **Soria Márquez Guillermo:**
+- **Soria Márquez Guillermo:** En esta practica se trabajo con el temporizador 555 y con un motor de corriente directa,al principio yo no sabia cual era la funcionalidad de cada patita. Yo nunca habia trabajado con este temporizador pero me di cuenta que distribuye la señal con respecto al tiempo, en este caso el LED utilizado en la etapa 1 duro 3 segundos encendido y porteriormente se apago, cuando le agregamos la etapa 2 el motor tenia el mismo comportamiento que el led y funcionaban simultaneamente.
 1.   Evidencia 
 ![Evidencia1](../img/e1a22.png)
 ![Evidencia2](../img/e2a22.png)
