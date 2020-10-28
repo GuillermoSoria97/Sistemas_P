@@ -104,7 +104,7 @@ Ct= 1.1 * 33,000 * 0.000221= **8.02 seg**
 
 8. Una vez que el tiempo de encendido del pulso de salida de la etapa 1 se completo, **que sucede con el motor DC? Explique la razon de este comportamiento?**
 - El circuito 555 deja de enviar la señal lo cual hace que el transistor ya no recibe ninguna señal los cual provoca que el motor ya no siga trabajando y termina deteniéndose.
-- 
+  
 9.  Opinion Personal
 - **Diaz Navarro Alejandro:**
    Anteriormente nunca había manipulado un integrado en este caso el 555, esta es la primer ocasión en que me toca trabajar con uno de esto y me ayudó para comprender como este trabaja junto con los demás componentes, y cómo modificando los valores en determinados componentes estos provocan el tiempo de apagado del led y asu vez como el 555 una vez deja de enviar la señal al motor provoca que este deje de trabajar.
