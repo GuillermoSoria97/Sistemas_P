@@ -107,10 +107,12 @@ Ct= 1.1 * 33,000 * 0.000221= **8.02 seg**
 - 
 9.  Opinion Personal
 - **Diaz Navarro Alejandro:**
+   Anteriormente nunca había manipulado un integrado en este caso el 555, esta es la primer ocasión en que me toca trabajar con uno de esto y me ayudó para comprender como este trabaja junto con los demás componentes, y cómo modificando los valores en determinados componentes estos provocan el tiempo de apagado del led y asu vez como el 555 una vez deja de enviar la señal al motor provoca que este deje de trabajar.
+
 - **Rodríguez Báez Vanessa Marlenne:** En este circuito se pude notar como el integrado 555 manda su señal y hace que todo funcione y cambiando los valores de una resistencia y de un condensador es el tiempo en el que el led y el motor funcionaran debido a que el 555 manda su señal al transistor y este a su vez enciende el motor y cuando el 555 ya no manda ninguna señal hace que el led y el motor se apaguen en el tiempo que se programo.
 
 - **Soria Márquez Guillermo:**
-10.  Evidencia 
+1.   Evidencia 
 ![Evidencia1](../img/e1a22.png)
 ![Evidencia2](../img/e2a22.png)
 ![Evidencia3](../img/e3a22.png)
