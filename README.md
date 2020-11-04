@@ -43,7 +43,7 @@ Unidad 2
 Unidad 3
 * [C3.1 Arduino IDE Salida Digital](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C3.1GuillermoSoriaMarquez_Zerox.md)
 
-
+* [C3.2 Arduino IDE Entrada Digital e impresion ](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C3.2GuillermoSoriaMarquez_Zerox.md)
 
 
 **Docs**
