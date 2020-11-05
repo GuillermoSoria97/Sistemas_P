@@ -45,6 +45,8 @@ Unidad 3
 
 * [C3.2 Arduino IDE Entrada Digital e impresion ](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C3.2GuillermoSoriaMarquez_Zerox.md)
 
+* [C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C3.3GuillermoSoriaMarquez_Zerox.md)
+
 
 **Docs**
 
