@@ -47,6 +47,7 @@ Unidad 3
 
 * [C3.3 Arduino IDE Entrada Analoga y funcion serial](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C3.3GuillermoSoriaMarquez_Zerox.md)
 
+* [C3.4 Arduino IDE Entrada Salida, sensor y funcion serial](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C3.4GuillermoSoriaMarquez_Zerox.md)
 
 **Docs**
 
