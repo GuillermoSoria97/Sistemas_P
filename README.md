@@ -64,5 +64,5 @@ Unidad 2
 * [A.2.2 Circuito temporizador 555 y motor eléctrico](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A.2.2GuillermoSoriaMarquez_Zerox.md)
 
 Unidad 3
-* [A.3.1 Circuito sensor de deteccion de objetos]
+* [A.3.1 Circuito sensor de deteccion de objetos](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A.3.1GuillermoSoriaMarquez_Zerox.md)
 
