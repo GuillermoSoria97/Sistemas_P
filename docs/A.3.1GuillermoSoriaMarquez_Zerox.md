@@ -51,9 +51,11 @@ ___
 </p>
 
 
-
+![C1](../img/C1A31.png)
 
 1. Realice el programa que permita a través de una de las entradas del Arduino, recibir el valor que registra el **Sensor Ultrasonico** al acercarse un objeto a distintas distancias.
+
+![P1](../img/P1A31.png)
 
 2. Considerando que el sensor ultrasonico tiene un rango mínimo y máximo de detección basado en el tiempo de retorno de la señal sonica, que valores se obtienen en la simulación bajo las **siguientes condiciones:**
 
@@ -67,7 +69,7 @@ ___
 | 6      | 350 cm de distancia al sensor | 0 grados al eje perpendicular del sensor   |El objeto no es detectado
 
 5. Una vez completados los puntos anteriores, agregue a la Figura 1, **un Display I2C 16x2 LCD**, y coloque la imagen del circuito completado hasta este apartado.
-
+![C2](../img/C2A31.png)
 6. Al haber completado la integración del Display I2C, ajuste el programa que le permita a través del display mostrar el siguiente mensaje, **"Objetivo detectado a ? cm** , y en caso de no lograr la detección indicar el mensaje **"Objetivo fuera de rango"**
 
 7. Coloque aqui evidencias que considere importantes durante el desarrollo de la actividad.
