@@ -53,11 +53,11 @@ ___
 
 ![C1](../img/C1A31.png)
 
-1. Realice el programa que permita a través de una de las entradas del Arduino, recibir el valor que registra el **Sensor Ultrasonico** al acercarse un objeto a distintas distancias.
+3. Realice el programa que permita a través de una de las entradas del Arduino, recibir el valor que registra el **Sensor Ultrasonico** al acercarse un objeto a distintas distancias.
 
 ![P1](../img/P1A31.png)
 
-2. Considerando que el sensor ultrasonico tiene un rango mínimo y máximo de detección basado en el tiempo de retorno de la señal sonica, que valores se obtienen en la simulación bajo las **siguientes condiciones:**
+4. Considerando que el sensor ultrasonico tiene un rango mínimo y máximo de detección basado en el tiempo de retorno de la señal sonica, que valores se obtienen en la simulación bajo las **siguientes condiciones:**
 
 | Numero | Condición 1                   | Condición2                                 | El objeto es detectado? |
 | ------ | ----------------------------- | ------------------------------------------ | ----------------------- |
