@@ -81,10 +81,10 @@ ___
 ![E5](../img/E5A31.png)
 ![E6](../img/E6A31.png)
 8. Conclusiones
-* **Diaz Navarro Alejandro**
+* **Diaz Navarro Alejandro:**
 
 
-* **Rodríguez Báez Vanessa Marlenne**
+* **Rodríguez Báez Vanessa Marlenne:**
 El uso del sensor 
 ultrasónico normalmente es utilizado en robótica en la 
 creación de carros de esquiva obstáculo y otros 
@@ -97,7 +97,7 @@ display hiciera su función, de ahí en fuera esta practica
 reforzó mis conocimientos con el sensor y creo nuevos 
 sobre el display.
 
-* **Soria Márquez Guillermo**
+* **Soria Márquez Guillermo:**
 
 ### :bomb: Rubrica
 
