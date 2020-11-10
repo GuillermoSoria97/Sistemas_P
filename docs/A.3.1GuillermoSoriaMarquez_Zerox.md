@@ -71,9 +71,15 @@ ___
 5. Una vez completados los puntos anteriores, agregue a la Figura 1, **un Display I2C 16x2 LCD**, y coloque la imagen del circuito completado hasta este apartado.
 ![C2](../img/C2A31.png)
 6. Al haber completado la integración del Display I2C, ajuste el programa que le permita a través del display mostrar el siguiente mensaje, **"Objetivo detectado a ? cm** , y en caso de no lograr la detección indicar el mensaje **"Objetivo fuera de rango"**
-
+![P2](../img/P2A31.png)
+![P3](../img/P3A31.png)
 7. Coloque aqui evidencias que considere importantes durante el desarrollo de la actividad.
-___
+![E1](../img/E1A31.png)
+![E2](../img/E2A31.png)
+![E3](../img/E3A31.png)
+![E4](../img/E4A31.png)
+![E5](../img/E5A31.png)
+![E6](../img/E6A31.png)
 
 ### :bomb: Rubrica
 
