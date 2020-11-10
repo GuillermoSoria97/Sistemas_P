@@ -80,6 +80,24 @@ ___
 ![E4](../img/E4A31.png)
 ![E5](../img/E5A31.png)
 ![E6](../img/E6A31.png)
+8. Conclusiones
+* **Diaz Navarro Alejandro**
+
+
+* **Rodríguez Báez Vanessa Marlenne**
+El uso del sensor 
+ultrasónico normalmente es utilizado en robótica en la 
+creación de carros de esquiva obstáculo y otros 
+proyectos, Ya había utilizo el sensor el cual no se me 
+complico mucho el codificarlo en la primera etapa, el que
+nunca había utilizado es el display el cual si tuve que 
+investigar mas de el y su funcionamiento con videos para 
+poder programarse y crear la condición para que el 
+display hiciera su función, de ahí en fuera esta practica
+reforzó mis conocimientos con el sensor y creo nuevos 
+sobre el display.
+
+* **Soria Márquez Guillermo**
 
 ### :bomb: Rubrica
 
