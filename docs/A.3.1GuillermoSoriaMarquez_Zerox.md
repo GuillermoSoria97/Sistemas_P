@@ -82,7 +82,8 @@ ___
 ![E6](../img/E6A31.png)
 8. Conclusiones
 * **Diaz Navarro Alejandro:**
-
+Está práctica si me fue algo más complicada, puesto que nunca había utilizado Arduino y mucho menos programado en el, así que con ayuda de mis compañeros y unos vídeos pude ir entendiendo un poco más cómo se maneja esté, la primera etapa fue un tanto confusa puesto que no sabíamos en qué posición tomar las medidas pero al final lo resolvimos, en la segunda etapa tuvimos problemas en cuanto a la pantalla LCD en cuestión de la conexión y los mensajes que mandaría una vez se detectará el objeto, al final se revolvió esto..
+Así que solo me queda aprender más sobre el funcionamiento y la programación de estos componentes
 
 * **Rodríguez Báez Vanessa Marlenne:**
 El uso del sensor 
