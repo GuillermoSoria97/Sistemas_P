@@ -98,7 +98,7 @@ reforzó mis conocimientos con el sensor y creo nuevos
 sobre el display.
 
 * **Soria Márquez Guillermo:**
-
+Esta práctica estuvo muy interesante, yo ya había utilizado este sensor anteriormente pero no de la manera que lo plantea la práctica. Al principio cuando comenzamos con la etapa 1 no tuvimos problema alguno, colocamos el objeto variando el ángulo a nuestra perspectiva , no utilizamos ninguna herramienta para posicionar el ángulo. En la etapa 2 tuvimos problemas porque en el LCD siempre mandaba el mensaje indicando que el objeto siempre estaba identificado incluso cuando lo posicionábamos fuera de rango, nos dimos cuenta que teníamos mal los cálculos y los modificamos. Al final la simulación funciono correctamente.  
 ### :bomb: Rubrica
 
 | Criterios     | Descripción                                                                                  | Puntaje |
