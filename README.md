@@ -51,6 +51,9 @@ Unidad 3
 
 * [C3.6 Arduino IDE, ESP32 y Entrada Analogica](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C3.6GuillermoSoriaMarquez_Zerox.md)
 
+* [C3.7 Arduino IDE, ESP32 y PWM](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C3.7GuillermoSoriaMarquez_Zerox.md)
+
+
 **Docs**
 
 Unidad 1
