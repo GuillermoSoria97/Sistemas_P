@@ -73,3 +73,4 @@ Unidad 2
 Unidad 3
 * [A.3.1 Circuito sensor de deteccion de objetos](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A.3.1GuillermoSoriaMarquez_Zerox.md)
 
+* [A.3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A3.2GuillermoSoriaMarquez_Zerox.md)
