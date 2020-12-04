@@ -57,6 +57,8 @@ Unidad 3
 
 Unidad 4
 * [C4.1 Programación Microcontrolador NodeMCU ESP32](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C4.1GuillermoSoriaMarquez_Zerox.md)
+  
+* [C4.2 ](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C4.2GuillermoSoriaMarquez_Zerox.md)
 
 **Docs**
 
