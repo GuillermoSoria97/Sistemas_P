@@ -56,6 +56,7 @@ Unidad 3
 * [C3.8 Arduino IDE, ESP32 y Sensor Touch](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C3.8GuillermoSoriaMarquez_Zerox.md)
 
 Unidad 4
+* [C4.1 Programación Microcontrolador NodeMCU ESP32](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/blog/C4.1GuillermoSoriaMarquez_Zerox.md)
 
 **Docs**
 
