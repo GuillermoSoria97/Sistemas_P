@@ -80,3 +80,5 @@ Unidad 3
 * [A.3.2 Circuito y programacion de un sensor de tactor con NodeMCU ESP32](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A3.2GuillermoSoriaMarquez_Zerox.md)
 
 * [A.3.3 Circuito de medicion de temperatura a traves de un NodeMCU ESP32](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A3.3GuillermoSoriaMarquez_Zerox.md)
+
+* [A.4.1 Circuito de control para activar y desactivar un motor DC, utilizando NodeMCU ESP32 por medio de Bluetooth](https://github.com/GuillermoSoria97/Sistemas_P/blob/master/docs/A4.1GuillermoSoriaMarquez_Zerox.md)
